@@ -5,6 +5,7 @@ public abstract  class  FlyingObject {
     protected int y;
     protected int weight;
     protected int height;
+    protected int width;
     protected BufferedImage image;
 
     public int getX() {
